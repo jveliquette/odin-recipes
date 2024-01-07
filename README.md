@@ -8,3 +8,7 @@ This project, created as part of The Odin Project, showcases my progress in prac
 4. Caesar Salad
 
 Click on each link to dive into the recipe and explore the structured web pages that reflect my growing skills. Enjoy the delicious journey!
+
+This project was made with strictly HTML for structuring practice purposes - no styling was involved.
+
+Live preview: https://jveliquette.github.io/odin-recipes/
